@@ -1,0 +1,10 @@
+{
+    "required": true,
+    "package": "com.example.examplemod.mixins",
+    "refmap": "mixins.examplemod.refmap.json",
+    "minVersion": "0.7.3",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+        "MixinBlockDirt"
+    ]
+}
