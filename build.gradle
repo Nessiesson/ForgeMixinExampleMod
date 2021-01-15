@@ -73,7 +73,7 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
-    compile 'org.spongepowered:mixin:0.8.1-SNAPSHOT'
+    compile 'org.spongepowered:mixin:0.8.2'
 }
 
 mixin {
