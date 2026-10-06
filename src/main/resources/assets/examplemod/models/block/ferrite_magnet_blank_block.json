@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "examplemod:blocks/ferrite_magnet_blank_block"
+  }
+}

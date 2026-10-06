@@ -1,0 +1,17 @@
+item.examplemod.raw_iron.name=Raw Iron
+item.examplemod.raw_copper.name=Raw Copper
+tile.examplemod.copper_ore.name=Copper Ore
+itemGroup.examplemod=Chemistry
+tile.examplemod.muffle_furnace.name=Muffle Furnace
+item.examplemod.copper_ingot.name=Copper Ingot
+item.examplemod.flywheel.name=Flywheel
+itemGroup.examplemod.machines=Machines
+tile.examplemod.steam_engine_casing.name=Steam Engine Casing
+tile.examplemod.raw_iron_block.name=Raw Iron Block
+item.examplemod.witherite.name=Witherite
+tile.examplemod.witherite_ore.name=Witherite Ore
+tile.examplemod.ferrite_magnet_blank.name=Ferrite Magnet Blank
+tile.examplemod.ferrite_magnet.name=Ferrite Magnet
+tile.examplemod.fluid_pipe.name=Fluid Pipe
+tile.examplemod.fluid_tank.name=Fluid Tank
+fluid.examplemod.process_water=Process Water

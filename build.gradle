@@ -42,8 +42,7 @@ minecraft {
 jar.manifest.attributes(
         'FMLCorePluginContainsFMLMod': true,
         'FMLCorePlugin': 'com.example.examplemod.ExampleModLoadingPlugin',
-        'ForceLoadAsMod': true,
-        'TweakClass': 'org.spongepowered.asm.launch.MixinTweaker'
+        'ForceLoadAsMod': true
 )
 
 repositories {
@@ -85,6 +84,14 @@ shadowJar {
     exclude 'LICENSE.txt'
 
     classifier = ''
+
+    manifest {
+        attributes(
+                'FMLCorePluginContainsFMLMod': 'true',
+                'FMLCorePlugin': 'com.example.examplemod.ExampleModLoadingPlugin',
+                'ForceLoadAsMod': 'true'
+        )
+    }
 }
 build.dependsOn(shadowJar)
 

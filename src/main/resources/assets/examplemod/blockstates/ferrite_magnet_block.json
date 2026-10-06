@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "examplemod:ferrite_magnet_block"
+    }
+  }
+}

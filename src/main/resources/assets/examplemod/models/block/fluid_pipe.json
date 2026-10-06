@@ -1,0 +1,55 @@
+{
+  "textures": {
+    "pipe": "minecraft:blocks/iron_block"
+  },
+  "elements": [
+    {
+      "from": [5, 5, 0],
+      "to": [11, 11, 16],
+      "faces": {
+        "north": {"texture": "#pipe"},
+        "south": {"texture": "#pipe"},
+        "west": {"texture": "#pipe"},
+        "east": {"texture": "#pipe"},
+        "up": {"texture": "#pipe"},
+        "down": {"texture": "#pipe"}
+      }
+    },
+    {
+      "from": [5, 5, 5],
+      "to": [11, 11, 11],
+      "faces": {
+        "north": {"texture": "#pipe"},
+        "south": {"texture": "#pipe"},
+        "west": {"texture": "#pipe"},
+        "east": {"texture": "#pipe"},
+        "up": {"texture": "#pipe"},
+        "down": {"texture": "#pipe"}
+      }
+    },
+    {
+      "from": [0, 5, 5],
+      "to": [16, 11, 11],
+      "faces": {
+        "north": {"texture": "#pipe"},
+        "south": {"texture": "#pipe"},
+        "west": {"texture": "#pipe"},
+        "east": {"texture": "#pipe"},
+        "up": {"texture": "#pipe"},
+        "down": {"texture": "#pipe"}
+      }
+    },
+    {
+      "from": [5, 0, 5],
+      "to": [11, 16, 11],
+      "faces": {
+        "north": {"texture": "#pipe"},
+        "south": {"texture": "#pipe"},
+        "west": {"texture": "#pipe"},
+        "east": {"texture": "#pipe"},
+        "up": {"texture": "#pipe"},
+        "down": {"texture": "#pipe"}
+      }
+    }
+  ]
+}

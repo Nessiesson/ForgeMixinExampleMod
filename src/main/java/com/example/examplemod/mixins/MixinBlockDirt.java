@@ -13,7 +13,7 @@ public abstract class MixinBlockDirt
     @Inject(method = "<init>", at = @At("RETURN"))
     private void onDirtInit(CallbackInfo ci)
     {
-        // you really should not be using FMLLog.
+
         FMLLog.info("Hello from Mixins!");
     }
 }

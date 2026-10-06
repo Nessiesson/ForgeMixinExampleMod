@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "examplemod:blocks/mufflefurnace/muffle_furnace_side",
+    "down": "examplemod:blocks/mufflefurnace/muffle_furnace_top",
+    "up": "examplemod:blocks/mufflefurnace/muffle_furnace_top",
+    "north": "examplemod:blocks/mufflefurnace/muffle_furnace_front_on",
+    "south": "examplemod:blocks/mufflefurnace/muffle_furnace_front_on",
+    "west": "examplemod:blocks/mufflefurnace/muffle_furnace_side",
+    "east": "examplemod:blocks/mufflefurnace/muffle_furnace_side"
+  }
+}

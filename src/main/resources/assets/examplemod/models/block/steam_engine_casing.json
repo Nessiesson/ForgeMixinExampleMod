@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "examplemod:blocks/steam_engine_casing"
+  }
+}
